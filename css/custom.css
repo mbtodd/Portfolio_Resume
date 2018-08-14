@@ -20,3 +20,15 @@ You can write your custom css styles in this file...
     background-color: #82b440;
     z-index: 1;
 }
+
+#mt-logo {
+
+    max-width: 12%;
+    min-width: 2%;
+    
+    
+    /* background-blend-mode: multiply; */
+    /* opacity: .5;
+    filter: alpha(opacity=100); */
+    /* mix-blend-mode: multiply; */
+}
