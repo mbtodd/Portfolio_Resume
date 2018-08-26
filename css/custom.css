@@ -32,3 +32,13 @@ You can write your custom css styles in this file...
     filter: alpha(opacity=100); */
     /* mix-blend-mode: multiply; */
 }
+
+/* .bold_title  {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 14px;
+  padding: 80px 50px;
+  text-align: center;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+} */
+      
